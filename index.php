@@ -110,7 +110,7 @@
                     <div class="row justify-content-center">
                         <div class="col-xl-9 col-lg-9">
                             <div class="hero__caption">
-                                <p><h4 style="color: #fff;">Hello, my name is Dada Opeyemi and i'm a website developer</h4></p>
+                                <p><h2 style="color: #fff; text-align: center;">Hello, my name is Dada Opeyemi and i'm a website developer</h2></p>
                             </div>
                             <!--Hero form -->
                             <form action="#" class="search-box justify-content-center">
